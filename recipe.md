@@ -15,6 +15,9 @@
 - [ ] bottled water
 - [ ] 3 overlyripe bananas
 - [ ] 50 g walnuts
+- [ ] 3 Apples
+- [ ] # 5 Oranges
+
 
 ## DIRECTIONS
 
@@ -41,3 +44,7 @@
 - Bake for approx 60 mins or until a skewer comes out clean.
 
 - Leave to cool and cut and enjoy!
+
+- Add whipped cream..
+- Wash dishes
+
