@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Chocolate Banana Bread
 
 ## INGREDIENTS
@@ -15,7 +16,9 @@
 - [ ] 6 tbsp water
 - [ ] 3 ripe bananas
 - [ ] 50 g walnuts
-=======
+- [ ] 3 Apples
+- [ ] # 5 Oranges
+
 ## DIRECTIONS
 
 - In a glass or cup mix the ground flax and water and leave to sit for 5 mins until it coagulates.
@@ -41,4 +44,6 @@
 - Bake for approx 60 mins or until a skewer comes out clean.
 
 - Leave to cool and cut and enjoy!
->>>>>>> bba15c464b76bfc66dd72af59ab3d1ff23fdf35f
+- Add whipped cream..
+- Wash dishes
+  > > > > > > > bba15c464b76bfc66dd72af59ab3d1ff23fdf35f
